@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cecya\\OneDrive\\Documentos\\PrograI2024\\Clase4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA563DD-7C0F-435C-834F-D326F04165E3}|Operador Ternrio\\Operador Ternrio.csproj|c:\\users\\cecya\\onedrive\\documentos\\prograi2024\\clase4\\operador ternrio\\operador ternario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA563DD-7C0F-435C-834F-D326F04165E3}|Operador Ternrio\\Operador Ternrio.csproj|solutionrelative:operador ternrio\\operador ternario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA563DD-7C0F-435C-834F-D326F04165E3}|Operador Ternrio\\Operador Ternrio.csproj|c:\\users\\cecya\\onedrive\\documentos\\prograi2024\\clase4\\operador ternrio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA563DD-7C0F-435C-834F-D326F04165E3}|Operador Ternrio\\Operador Ternrio.csproj|solutionrelative:operador ternrio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\PrograI2024\\Clase4\\Operador Ternrio\\Program.cs",
+              "RelativeDocumentMoniker": "Operador Ternrio\\Program.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\PrograI2024\\Clase4\\Operador Ternrio\\Program.cs*",
+              "RelativeToolTip": "Operador Ternrio\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:54:50.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operador ternario.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\PrograI2024\\Clase4\\Operador Ternrio\\Operador ternario.cs",
+              "RelativeDocumentMoniker": "Operador Ternrio\\Operador ternario.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\PrograI2024\\Clase4\\Operador Ternrio\\Operador ternario.cs",
+              "RelativeToolTip": "Operador Ternrio\\Operador ternario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:39:20.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

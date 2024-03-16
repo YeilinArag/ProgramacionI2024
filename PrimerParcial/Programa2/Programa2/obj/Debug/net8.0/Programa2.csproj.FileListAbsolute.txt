@@ -1,0 +1,14 @@
+C:\Users\cecya\source\repos\PrimerParcial\Programa2\Programa2\bin\Debug\net8.0\Programa2.exe
+C:\Users\cecya\source\repos\PrimerParcial\Programa2\Programa2\bin\Debug\net8.0\Programa2.deps.json
+C:\Users\cecya\source\repos\PrimerParcial\Programa2\Programa2\bin\Debug\net8.0\Programa2.runtimeconfig.json
+C:\Users\cecya\source\repos\PrimerParcial\Programa2\Programa2\bin\Debug\net8.0\Programa2.dll
+C:\Users\cecya\source\repos\PrimerParcial\Programa2\Programa2\bin\Debug\net8.0\Programa2.pdb
+C:\Users\cecya\source\repos\PrimerParcial\Programa2\Programa2\obj\Debug\net8.0\Programa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecya\source\repos\PrimerParcial\Programa2\Programa2\obj\Debug\net8.0\Programa2.AssemblyInfoInputs.cache
+C:\Users\cecya\source\repos\PrimerParcial\Programa2\Programa2\obj\Debug\net8.0\Programa2.AssemblyInfo.cs
+C:\Users\cecya\source\repos\PrimerParcial\Programa2\Programa2\obj\Debug\net8.0\Programa2.csproj.CoreCompileInputs.cache
+C:\Users\cecya\source\repos\PrimerParcial\Programa2\Programa2\obj\Debug\net8.0\Programa2.dll
+C:\Users\cecya\source\repos\PrimerParcial\Programa2\Programa2\obj\Debug\net8.0\refint\Programa2.dll
+C:\Users\cecya\source\repos\PrimerParcial\Programa2\Programa2\obj\Debug\net8.0\Programa2.pdb
+C:\Users\cecya\source\repos\PrimerParcial\Programa2\Programa2\obj\Debug\net8.0\Programa2.genruntimeconfig.cache
+C:\Users\cecya\source\repos\PrimerParcial\Programa2\Programa2\obj\Debug\net8.0\ref\Programa2.dll

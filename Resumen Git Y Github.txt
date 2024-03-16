@@ -1,0 +1,19 @@
+1.	¿Qué es Git?
+
+R// es un sistema de control de versiones tal como su nombre lo indica es un programa que controla o administra las distintas versiones de un programa.
+
+2.	¿Cuáles son los comandos más importantes y para qué sirven?
+R// Earl y Adif: esta es una herramienta que interactúa directamente con el sistema operativo este se va a manejar mucho a través de la consola.
+Working directory: es donde estaremos trabajando con todos los archivos.
+Staying: en esta área es donde vamos a estar agregando todos los archivos que vamos a preparar para el guardado.
+git init: es una manera en la cual nosotros vamos a poder decirle al sistema operativo que vamos a crear un proyecto.
+git give up: es para poder pasar los archivos del working directory.
+git status: esta área es para ver en qué estado están nuestros archivos.
+
+3.	 ¿Cuál es la diferencia entre Git y Github?
+R// Git es un ejemplo de VCS, y Github es un sitio web + infraestructura que proporciona un servidor Git más una serie de herramientas realmente útiles para trabajar con repositorios git individuales o en equipo, como informar problemas con el código, herramientas de revisión, características de administración de proyectos.
+
+4.	 Enumere los comandos para subir cambios a un repositorio
+
+5.	¿Qué es una branch?
+R¬¬// Es una versión del código del proyecto sobre el que estamos trabajando.

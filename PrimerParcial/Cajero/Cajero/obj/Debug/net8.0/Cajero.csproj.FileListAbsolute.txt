@@ -1,0 +1,14 @@
+C:\Users\cecya\source\repos\PrimerParcial\Cajero\Cajero\bin\Debug\net8.0\Cajero.exe
+C:\Users\cecya\source\repos\PrimerParcial\Cajero\Cajero\bin\Debug\net8.0\Cajero.deps.json
+C:\Users\cecya\source\repos\PrimerParcial\Cajero\Cajero\bin\Debug\net8.0\Cajero.runtimeconfig.json
+C:\Users\cecya\source\repos\PrimerParcial\Cajero\Cajero\bin\Debug\net8.0\Cajero.dll
+C:\Users\cecya\source\repos\PrimerParcial\Cajero\Cajero\bin\Debug\net8.0\Cajero.pdb
+C:\Users\cecya\source\repos\PrimerParcial\Cajero\Cajero\obj\Debug\net8.0\Cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecya\source\repos\PrimerParcial\Cajero\Cajero\obj\Debug\net8.0\Cajero.AssemblyInfoInputs.cache
+C:\Users\cecya\source\repos\PrimerParcial\Cajero\Cajero\obj\Debug\net8.0\Cajero.AssemblyInfo.cs
+C:\Users\cecya\source\repos\PrimerParcial\Cajero\Cajero\obj\Debug\net8.0\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\cecya\source\repos\PrimerParcial\Cajero\Cajero\obj\Debug\net8.0\Cajero.dll
+C:\Users\cecya\source\repos\PrimerParcial\Cajero\Cajero\obj\Debug\net8.0\refint\Cajero.dll
+C:\Users\cecya\source\repos\PrimerParcial\Cajero\Cajero\obj\Debug\net8.0\Cajero.pdb
+C:\Users\cecya\source\repos\PrimerParcial\Cajero\Cajero\obj\Debug\net8.0\Cajero.genruntimeconfig.cache
+C:\Users\cecya\source\repos\PrimerParcial\Cajero\Cajero\obj\Debug\net8.0\ref\Cajero.dll

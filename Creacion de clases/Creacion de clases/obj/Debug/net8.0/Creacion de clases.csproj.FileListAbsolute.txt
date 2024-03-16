@@ -1,0 +1,4 @@
+C:\Users\cecya\source\repos\Creacion de clases\Creacion de clases\obj\Debug\net8.0\Creacion de clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecya\source\repos\Creacion de clases\Creacion de clases\obj\Debug\net8.0\Creacion de clases.AssemblyInfoInputs.cache
+C:\Users\cecya\source\repos\Creacion de clases\Creacion de clases\obj\Debug\net8.0\Creacion de clases.AssemblyInfo.cs
+C:\Users\cecya\source\repos\Creacion de clases\Creacion de clases\obj\Debug\net8.0\Creacion de clases.csproj.CoreCompileInputs.cache
