@@ -1,0 +1,15 @@
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\bin\Debug\net8.0\Sesion7.exe
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\bin\Debug\net8.0\Sesion7.deps.json
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\bin\Debug\net8.0\Sesion7.runtimeconfig.json
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\bin\Debug\net8.0\Sesion7.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\bin\Debug\net8.0\Sesion7.pdb
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\obj\Debug\net8.0\Sesion7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\obj\Debug\net8.0\Sesion7.AssemblyInfoInputs.cache
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\obj\Debug\net8.0\Sesion7.AssemblyInfo.cs
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\obj\Debug\net8.0\Sesion7.csproj.CoreCompileInputs.cache
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\obj\Debug\net8.0\Sesion7.sourcelink.json
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\obj\Debug\net8.0\Sesion7.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\obj\Debug\net8.0\refint\Sesion7.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\obj\Debug\net8.0\Sesion7.pdb
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\obj\Debug\net8.0\Sesion7.genruntimeconfig.cache
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Semana7\Sesion7\Sesion7\obj\Debug\net8.0\ref\Sesion7.dll

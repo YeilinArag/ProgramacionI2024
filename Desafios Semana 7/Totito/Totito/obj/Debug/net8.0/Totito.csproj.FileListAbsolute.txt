@@ -1,0 +1,15 @@
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\bin\Debug\net8.0\Totito.exe
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\bin\Debug\net8.0\Totito.deps.json
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\bin\Debug\net8.0\Totito.runtimeconfig.json
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\bin\Debug\net8.0\Totito.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\bin\Debug\net8.0\Totito.pdb
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\obj\Debug\net8.0\Totito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\obj\Debug\net8.0\Totito.AssemblyInfoInputs.cache
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\obj\Debug\net8.0\Totito.AssemblyInfo.cs
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\obj\Debug\net8.0\Totito.csproj.CoreCompileInputs.cache
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\obj\Debug\net8.0\Totito.sourcelink.json
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\obj\Debug\net8.0\Totito.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\obj\Debug\net8.0\refint\Totito.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\obj\Debug\net8.0\Totito.pdb
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\obj\Debug\net8.0\Totito.genruntimeconfig.cache
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Semana 7\Totito\Totito\obj\Debug\net8.0\ref\Totito.dll
