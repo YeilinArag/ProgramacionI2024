@@ -1,0 +1,15 @@
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\bin\Debug\net8.0\Desafio 2.exe
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\bin\Debug\net8.0\Desafio 2.deps.json
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\bin\Debug\net8.0\Desafio 2.runtimeconfig.json
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\bin\Debug\net8.0\Desafio 2.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\bin\Debug\net8.0\Desafio 2.pdb
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\obj\Debug\net8.0\Desafio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\obj\Debug\net8.0\Desafio 2.AssemblyInfoInputs.cache
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\obj\Debug\net8.0\Desafio 2.AssemblyInfo.cs
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\obj\Debug\net8.0\Desafio 2.csproj.CoreCompileInputs.cache
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\obj\Debug\net8.0\Desafio 2.sourcelink.json
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\obj\Debug\net8.0\Desafio 2.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\obj\Debug\net8.0\refint\Desafio 2.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\obj\Debug\net8.0\Desafio 2.pdb
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\obj\Debug\net8.0\Desafio 2.genruntimeconfig.cache
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\Desafios Sesion 7\Desafio 2\Desafio 2\obj\Debug\net8.0\ref\Desafio 2.dll
