@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEMANA 9\\Semana 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C2396A-30DC-4F82-8698-BCEDC20C2126}|Modificadores Sesion 9\\Modificadores Sesion 9.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\semana 9\\semana 9\\modificadores sesion 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C2396A-30DC-4F82-8698-BCEDC20C2126}|Modificadores Sesion 9\\Modificadores Sesion 9.csproj|solutionrelative:modificadores sesion 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9E879-5F06-40C7-9160-AF5E6063E99C}|Semana 9\\Semana 9.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\semana 9\\semana 9\\semana 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9E879-5F06-40C7-9160-AF5E6063E99C}|Semana 9\\Semana 9.csproj|solutionrelative:semana 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C2396A-30DC-4F82-8698-BCEDC20C2126}|Modificadores Sesion 9\\Modificadores Sesion 9.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\semana 9\\semana 9\\modificadores sesion 9\\modificadores sesion 9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9C2396A-30DC-4F82-8698-BCEDC20C2126}|Modificadores Sesion 9\\Modificadores Sesion 9.csproj|solutionrelative:modificadores sesion 9\\modificadores sesion 9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C2396A-30DC-4F82-8698-BCEDC20C2126}|Modificadores Sesion 9\\Modificadores Sesion 9.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\semana 9\\semana 9\\modificadores sesion 9\\demostracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C2396A-30DC-4F82-8698-BCEDC20C2126}|Modificadores Sesion 9\\Modificadores Sesion 9.csproj|solutionrelative:modificadores sesion 9\\demostracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Demostracion.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEMANA 9\\Semana 9\\Modificadores Sesion 9\\Demostracion.cs",
+              "RelativeDocumentMoniker": "Modificadores Sesion 9\\Demostracion.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEMANA 9\\Semana 9\\Modificadores Sesion 9\\Demostracion.cs",
+              "RelativeToolTip": "Modificadores Sesion 9\\Demostracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:32:35.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modificadores Sesion 9",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEMANA 9\\Semana 9\\Modificadores Sesion 9\\Modificadores Sesion 9.csproj",
+              "RelativeDocumentMoniker": "Modificadores Sesion 9\\Modificadores Sesion 9.csproj",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEMANA 9\\Semana 9\\Modificadores Sesion 9\\Modificadores Sesion 9.csproj",
+              "RelativeToolTip": "Modificadores Sesion 9\\Modificadores Sesion 9.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-06T15:28:44.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEMANA 9\\Semana 9\\Modificadores Sesion 9\\Program.cs",
+              "RelativeDocumentMoniker": "Modificadores Sesion 9\\Program.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEMANA 9\\Semana 9\\Modificadores Sesion 9\\Program.cs",
+              "RelativeToolTip": "Modificadores Sesion 9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:28:36.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEMANA 9\\Semana 9\\Semana 9\\Program.cs",
+              "RelativeDocumentMoniker": "Semana 9\\Program.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEMANA 9\\Semana 9\\Semana 9\\Program.cs",
+              "RelativeToolTip": "Semana 9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:25:37.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
