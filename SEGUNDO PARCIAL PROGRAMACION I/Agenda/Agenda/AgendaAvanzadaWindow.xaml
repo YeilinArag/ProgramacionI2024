@@ -1,0 +1,24 @@
+﻿<Window x:Class="Agenda.AgendaAvanzadaWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Agenda"
+        mc:Ignorable="d"
+        Title="AgendaAvanzadaWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Horizontal" Margin="10">
+            <TextBox x:Name="NombreTarea" Width="200" Margin="5" />
+            <TextBox x:Name="DescripcionTarea" Width="300" Margin="5" />
+           <DatePicker x:Name="FechaTarea" Margin="5" />
+            <TextBox x:Name="EstadoTarea" Width="100" Margin="5" />
+            <TextBox x:Name="ResponsableTarea" Width="150" Margin="5" />
+            <Button Content="Agregar Tarea" Click="AgregarTarea" Margin="5" Padding="5" />
+        </StackPanel>
+        <ListBox x:Name="ListaTareas" Margin="10" Height="300" />
+        <StackPanel Orientation="Horizontal" Margin="10" />
+        <Button Content="Eliminar Tarea" Click="EliminarTarea" Margin="5" Padding="5" />
+        <Button Content="Cambiar Estado" Click="CambiarEstado" Margin="5" Padding="5" />
+        <Button Content="Cambiar Responsable" Click="CambiarResponsable" Margin="5" Padding="5" />
+    </Grid>
+</Window>

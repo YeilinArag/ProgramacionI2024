@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73D81C5E-E5C9-4210-9DFE-1EAC9599033B}|Agenda\\Agenda.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\segundo parcial programacion i\\agenda\\agenda\\agendaavanzadawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73D81C5E-E5C9-4210-9DFE-1EAC9599033B}|Agenda\\Agenda.csproj|solutionrelative:agenda\\agendaavanzadawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D81C5E-E5C9-4210-9DFE-1EAC9599033B}|Agenda\\Agenda.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\segundo parcial programacion i\\agenda\\agenda\\agendabasicawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D81C5E-E5C9-4210-9DFE-1EAC9599033B}|Agenda\\Agenda.csproj|solutionrelative:agenda\\agendabasicawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D81C5E-E5C9-4210-9DFE-1EAC9599033B}|Agenda\\Agenda.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\segundo parcial programacion i\\agenda\\agenda\\agendabasicawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73D81C5E-E5C9-4210-9DFE-1EAC9599033B}|Agenda\\Agenda.csproj|solutionrelative:agenda\\agendabasicawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D81C5E-E5C9-4210-9DFE-1EAC9599033B}|Agenda\\Agenda.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\segundo parcial programacion i\\agenda\\agenda\\tarea avanzada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D81C5E-E5C9-4210-9DFE-1EAC9599033B}|Agenda\\Agenda.csproj|solutionrelative:agenda\\tarea avanzada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D81C5E-E5C9-4210-9DFE-1EAC9599033B}|Agenda\\Agenda.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\segundo parcial programacion i\\agenda\\agenda\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D81C5E-E5C9-4210-9DFE-1EAC9599033B}|Agenda\\Agenda.csproj|solutionrelative:agenda\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D81C5E-E5C9-4210-9DFE-1EAC9599033B}|Agenda\\Agenda.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\segundo parcial programacion i\\agenda\\agenda\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73D81C5E-E5C9-4210-9DFE-1EAC9599033B}|Agenda\\Agenda.csproj|solutionrelative:agenda\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D81C5E-E5C9-4210-9DFE-1EAC9599033B}|Agenda\\Agenda.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\segundo parcial programacion i\\agenda\\agenda\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D81C5E-E5C9-4210-9DFE-1EAC9599033B}|Agenda\\Agenda.csproj|solutionrelative:agenda\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgendaAvanzadaWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\Agenda\\AgendaAvanzadaWindow.xaml",
+              "RelativeDocumentMoniker": "Agenda\\AgendaAvanzadaWindow.xaml",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\Agenda\\AgendaAvanzadaWindow.xaml",
+              "RelativeToolTip": "Agenda\\AgendaAvanzadaWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T16:42:33.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgendaBasicaWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\Agenda\\AgendaBasicaWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Agenda\\AgendaBasicaWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\Agenda\\AgendaBasicaWindow.xaml.cs",
+              "RelativeToolTip": "Agenda\\AgendaBasicaWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:20:44.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgendaBasicaWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\Agenda\\AgendaBasicaWindow.xaml",
+              "RelativeDocumentMoniker": "Agenda\\AgendaBasicaWindow.xaml",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\Agenda\\AgendaBasicaWindow.xaml",
+              "RelativeToolTip": "Agenda\\AgendaBasicaWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T16:02:03.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tarea Avanzada.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\Agenda\\Tarea Avanzada.cs",
+              "RelativeDocumentMoniker": "Agenda\\Tarea Avanzada.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\Agenda\\Tarea Avanzada.cs",
+              "RelativeToolTip": "Agenda\\Tarea Avanzada.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T15:33:08.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\Agenda\\Tarea.cs",
+              "RelativeDocumentMoniker": "Agenda\\Tarea.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\Agenda\\Tarea.cs",
+              "RelativeToolTip": "Agenda\\Tarea.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T15:29:32.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\Agenda\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Agenda\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\Agenda\\MainWindow.xaml",
+              "RelativeToolTip": "Agenda\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T15:27:52.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\Agenda\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Agenda\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\SEGUNDO PARCIAL PROGRAMACION I\\Agenda\\Agenda\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Agenda\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T15:27:48.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
