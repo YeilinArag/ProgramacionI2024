@@ -1,0 +1,21 @@
+﻿<Window x:Class="ProductoApp.CrearProductoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Crear Producto" Height="300" Width="400">
+    <Grid>
+        <StackPanel>
+            <Label Content="Código"/>
+            <TextBox x:Name="CodigoTextBox"/>
+            <Label Content="Nombre"/>
+            <TextBox x:Name="NombreTextBox"/>
+            <Label Content="Precio"/>
+            <TextBox x:Name="PrecioTextBox"/>
+            <Label Content="Existencia"/>
+            <TextBox x:Name="ExistenciaTextBox"/>
+            <Label Content="Usuario"/>
+            <ComboBox x:Name="UsuarioComboBox"/>
+            <Button Content="Guardar" Click="Guardar_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
+

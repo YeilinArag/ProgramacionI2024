@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\PROYECTO FINAL PROGRAMACION I\\GymBulls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F91A8CFB-9005-4EA4-AAA5-E58B3CDDC601}|GymBulls\\GymBulls.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\proyecto final programacion i\\gymbulls\\gymbulls\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F91A8CFB-9005-4EA4-AAA5-E58B3CDDC601}|GymBulls\\GymBulls.csproj|solutionrelative:gymbulls\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91A8CFB-9005-4EA4-AAA5-E58B3CDDC601}|GymBulls\\GymBulls.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\proyecto final programacion i\\gymbulls\\gymbulls\\data\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91A8CFB-9005-4EA4-AAA5-E58B3CDDC601}|GymBulls\\GymBulls.csproj|solutionrelative:gymbulls\\data\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91A8CFB-9005-4EA4-AAA5-E58B3CDDC601}|GymBulls\\GymBulls.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\proyecto final programacion i\\gymbulls\\gymbulls\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91A8CFB-9005-4EA4-AAA5-E58B3CDDC601}|GymBulls\\GymBulls.csproj|solutionrelative:gymbulls\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91A8CFB-9005-4EA4-AAA5-E58B3CDDC601}|GymBulls\\GymBulls.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\proyecto final programacion i\\gymbulls\\gymbulls\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91A8CFB-9005-4EA4-AAA5-E58B3CDDC601}|GymBulls\\GymBulls.csproj|solutionrelative:gymbulls\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\PROYECTO FINAL PROGRAMACION I\\GymBulls\\GymBulls\\appsettings.json",
+              "RelativeDocumentMoniker": "GymBulls\\appsettings.json",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\PROYECTO FINAL PROGRAMACION I\\GymBulls\\GymBulls\\appsettings.json*",
+              "RelativeToolTip": "GymBulls\\appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T20:17:00.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\PROYECTO FINAL PROGRAMACION I\\GymBulls\\GymBulls\\Data\\Contexto.cs",
+              "RelativeDocumentMoniker": "GymBulls\\Data\\Contexto.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\PROYECTO FINAL PROGRAMACION I\\GymBulls\\GymBulls\\Data\\Contexto.cs*",
+              "RelativeToolTip": "GymBulls\\Data\\Contexto.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:34:48.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\PROYECTO FINAL PROGRAMACION I\\GymBulls\\GymBulls\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "GymBulls\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\PROYECTO FINAL PROGRAMACION I\\GymBulls\\GymBulls\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "GymBulls\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:32:24.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\PROYECTO FINAL PROGRAMACION I\\GymBulls\\GymBulls\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "GymBulls\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\PROYECTO FINAL PROGRAMACION I\\GymBulls\\GymBulls\\Models\\Categoria.cs*",
+              "RelativeToolTip": "GymBulls\\Models\\Categoria.cs*",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:17:39.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

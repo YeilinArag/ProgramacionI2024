@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cecya\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\examen final programacion 1\\examen final\\examen final\\crearproductowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|solutionrelative:examen final\\crearproductowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\examen final programacion 1\\examen final\\examen final\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|solutionrelative:examen final\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\examen final programacion 1\\examen final\\examen final\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|solutionrelative:examen final\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\examen final programacion 1\\examen final\\examen final\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|solutionrelative:examen final\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\examen final programacion 1\\examen final\\examen final\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|solutionrelative:examen final\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\examen final programacion 1\\examen final\\examen final\\editarproductowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|solutionrelative:examen final\\editarproductowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\examen final programacion 1\\examen final\\examen final\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|solutionrelative:examen final\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\examen final programacion 1\\examen final\\examen final\\editarproductowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|solutionrelative:examen final\\editarproductowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\examen final programacion 1\\examen final\\examen final\\crearproductowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|solutionrelative:examen final\\crearproductowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\examen final programacion 1\\examen final\\examen final\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|solutionrelative:examen final\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|c:\\users\\cecya\\onedrive\\documentos\\programacioni2024\\examen final programacion 1\\examen final\\examen final\\examen final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2BD3D07-4984-4EC7-BE9C-AE1E42476E61}|EXAMEN FINAL\\EXAMEN FINAL.csproj|solutionrelative:examen final\\examen final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\cecya\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee5cecc93d553594bcdd27f7f78ec4c027d563536bb5d0f2c4359be1479d5362\\XamlReader.cs [Solo lectura]",
+              "ViewState": "AQIAAPIBAAAAAAAAAAAWwP4BAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:58:16.978Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\App.config",
+              "RelativeDocumentMoniker": "EXAMEN FINAL\\App.config",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\App.config",
+              "RelativeToolTip": "EXAMEN FINAL\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-08T16:41:22.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EXAMEN FINAL\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EXAMEN FINAL\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:22:13.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearProductoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\CrearProductoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EXAMEN FINAL\\CrearProductoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\CrearProductoWindow.xaml.cs",
+              "RelativeToolTip": "EXAMEN FINAL\\CrearProductoWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:26:50.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "EXAMEN FINAL\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\Models\\Producto.cs",
+              "RelativeToolTip": "EXAMEN FINAL\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:13:34.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditarProductoWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\EditarProductoWindow.xaml",
+              "RelativeDocumentMoniker": "EXAMEN FINAL\\EditarProductoWindow.xaml",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\EditarProductoWindow.xaml",
+              "RelativeToolTip": "EXAMEN FINAL\\EditarProductoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T16:27:53.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditarProductoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\EditarProductoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EXAMEN FINAL\\EditarProductoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\EditarProductoWindow.xaml.cs",
+              "RelativeToolTip": "EXAMEN FINAL\\EditarProductoWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:28:43.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EXAMEN FINAL\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\MainWindow.xaml",
+              "RelativeToolTip": "EXAMEN FINAL\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T15:22:19.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EXAMEN FINAL\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "EXAMEN FINAL\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:16:14.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CrearProductoWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\CrearProductoWindow.xaml",
+              "RelativeDocumentMoniker": "EXAMEN FINAL\\CrearProductoWindow.xaml",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\CrearProductoWindow.xaml",
+              "RelativeToolTip": "EXAMEN FINAL\\CrearProductoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T16:25:33.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "EXAMEN FINAL\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\Models\\Usuario.cs",
+              "RelativeToolTip": "EXAMEN FINAL\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:12:50.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EXAMEN FINAL",
+              "DocumentMoniker": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\EXAMEN FINAL.csproj",
+              "RelativeDocumentMoniker": "EXAMEN FINAL\\EXAMEN FINAL.csproj",
+              "ToolTip": "C:\\Users\\cecya\\OneDrive\\Documentos\\ProgramacionI2024\\EXAMEN FINAL PROGRAMACION 1\\EXAMEN FINAL\\EXAMEN FINAL\\EXAMEN FINAL.csproj",
+              "RelativeToolTip": "EXAMEN FINAL\\EXAMEN FINAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T15:54:07.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

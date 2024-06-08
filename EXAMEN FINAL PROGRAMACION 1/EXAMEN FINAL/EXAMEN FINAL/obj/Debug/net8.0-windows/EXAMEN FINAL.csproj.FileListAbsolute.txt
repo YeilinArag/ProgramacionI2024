@@ -1,0 +1,35 @@
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\bin\Debug\net8.0-windows\EXAMEN FINAL.exe
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\bin\Debug\net8.0-windows\EXAMEN FINAL.dll.config
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\bin\Debug\net8.0-windows\EXAMEN FINAL.deps.json
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\bin\Debug\net8.0-windows\EXAMEN FINAL.runtimeconfig.json
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\bin\Debug\net8.0-windows\EXAMEN FINAL.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\bin\Debug\net8.0-windows\EXAMEN FINAL.pdb
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\EXAMEN FINAL.csproj.AssemblyReference.cache
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\CrearProductoWindow.baml
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\EditarProductoWindow.baml
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\CrearProductoWindow.g.cs
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\EditarProductoWindow.g.cs
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\EXAMEN FINAL_MarkupCompile.cache
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\EXAMEN FINAL.g.resources
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\EXAMEN FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\EXAMEN FINAL.AssemblyInfoInputs.cache
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\EXAMEN FINAL.AssemblyInfo.cs
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\EXAMEN FINAL.csproj.CoreCompileInputs.cache
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\EXAMEN FINAL.sourcelink.json
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\EXAMEN F.1143EB1B.Up2Date
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\EXAMEN FINAL.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\refint\EXAMEN FINAL.dll
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\EXAMEN FINAL.pdb
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\EXAMEN FINAL.genruntimeconfig.cache
+C:\Users\cecya\OneDrive\Documentos\ProgramacionI2024\EXAMEN FINAL PROGRAMACION 1\EXAMEN FINAL\EXAMEN FINAL\obj\Debug\net8.0-windows\ref\EXAMEN FINAL.dll
